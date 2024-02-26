@@ -114,4 +114,4 @@ for ticker in best_performers["Ticker"]:
 final_df.sort_values(by="Score", ascending=False)
 
 pd.set_option("display.max_columns", 10)
-final_df.to_csv("data/.csv")
+final_df.to_csv("data/_SCREENED.csv")
