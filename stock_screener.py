@@ -36,7 +36,7 @@ sp500_df = sp500_table[0]
 tickers = sp500_df["Symbol"].tolist()
 
 for idx, ticker in enumerate(tickers):
-    if idx == 10:
+    if idx == 7:
         break
 
     ticker_return = calculate_return(ticker, start, end)
