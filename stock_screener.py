@@ -1,6 +1,5 @@
 #
 # Stock Screener in Python: https://www.youtube.com/watch?v=RQw1TUqhRco
-# Algorithmic Trading Python 2023: https://www.youtube.com/watch?v=GDMkkmkJigw
 #
 
 import pandas as pd
