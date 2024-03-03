@@ -1,5 +1,6 @@
 #
 # Building a Trading Robot in Python: https://www.youtube.com/playlist?list=PLcFcktZ0wnNmdgAdv4-Yl_nzS5LiKnhnn
+# GitHub: https://github.com/areed1192/python-trading-robot
 #
 
 import numpy as np
